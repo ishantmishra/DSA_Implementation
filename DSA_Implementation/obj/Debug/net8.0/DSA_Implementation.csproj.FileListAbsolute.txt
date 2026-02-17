@@ -1,0 +1,14 @@
+D:\DSA\DSA_Implementation\DSA_Implementation\bin\Debug\net8.0\DSA_Implementation.exe
+D:\DSA\DSA_Implementation\DSA_Implementation\bin\Debug\net8.0\DSA_Implementation.deps.json
+D:\DSA\DSA_Implementation\DSA_Implementation\bin\Debug\net8.0\DSA_Implementation.runtimeconfig.json
+D:\DSA\DSA_Implementation\DSA_Implementation\bin\Debug\net8.0\DSA_Implementation.dll
+D:\DSA\DSA_Implementation\DSA_Implementation\bin\Debug\net8.0\DSA_Implementation.pdb
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.AssemblyInfoInputs.cache
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.AssemblyInfo.cs
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.csproj.CoreCompileInputs.cache
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.dll
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\refint\DSA_Implementation.dll
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.pdb
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\DSA_Implementation.genruntimeconfig.cache
+D:\DSA\DSA_Implementation\DSA_Implementation\obj\Debug\net8.0\ref\DSA_Implementation.dll
